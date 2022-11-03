@@ -20,7 +20,7 @@ module.exports = {
         {
           text: '指南',
           items: [
-            { text: '安装', link: '/guide/installation' },
+            { text: '安装', link: '/guide/installation' }, 
             { text: '快速开始', link: '/guide/quieStart' }
           ]
         }
@@ -29,7 +29,12 @@ module.exports = {
         {
           text: '栈',
           items: [
-            { text: '用两个栈实现队列', link: '/stack/1.剑指offer09-用两个栈实现队列' }
+            { text: '用两个栈实现队列', link: '/stack/1.剑指offer09-用两个栈实现队列' },
+            { text: '有效的括号', link: '/stack/2.20.有效的括号' },
+            { text: '二叉树的中序遍历', link: '/stack/3.94.二叉树的中序遍历' },
+            { text: '回文链表', link: '/stack/4.回文链表' },
+            { text: '二叉树的前序遍历', link: '/stack/5.144. 二叉树的前序遍历' },
+            { text: '二叉树的后序遍历', link: '/stack/6.145. 二叉树的后序遍历' },
           ]
         }
       ]
